@@ -1,0 +1,25 @@
+{
+  "name": "akita-practice",
+  "version": "1.0.0",
+  "description": "A simple project to get to know about Akita State Management",
+  "main": "index.js",
+  "scripts": {
+    "test": "ng test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rioputroo/akita-practice.git"
+  },
+  "keywords": [
+    "Angular",
+    "Akita",
+    "State",
+    "Management"
+  ],
+  "author": "Rio Trilaksono Putro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rioputroo/akita-practice/issues"
+  },
+  "homepage": "https://github.com/rioputroo/akita-practice#readme"
+}
